@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SG Copies printings</title>
+<title>SG COPIES|PRINT</title>
 
 <style>
 *{margin:0;padding:0;box-sizing:border-box;font-family:system-ui;}
@@ -140,7 +141,7 @@ border-radius:6px;
 
 <!-- CUSTOMER -->
 <div class="hero">
-<h1>SG PRINT / COPIES </h1>
+<h1>SG ONLINE COPIES</h1>
 
 <div class="card">
 <h3>Create Order</h3>
@@ -167,6 +168,7 @@ border-radius:6px;
 <a href="https://sg-inv-cc.github.io/Brands/">Brand</a>
 <a href="https://sg-inv-cc.github.io/Group/">Web Dev</a>
 <a href="https://sg-inv-cc.github.io/Group/">Services</a>
+
 </div>
 
 <!-- ADMIN -->
